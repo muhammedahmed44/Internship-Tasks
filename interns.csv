@@ -1,0 +1,62 @@
+intern_id,applicant_id,domain,start_date,completion_status
+1,2,Web Development,2026-01-23,Completed
+2,3,Web Development,2025-10-27,Completed
+3,4,Cybersecurity,2026-01-02,Completed
+4,7,Cybersecurity,2025-11-22,Completed
+5,11,UI/UX Design,2026-01-14,Completed
+6,12,Cybersecurity,2025-12-16,Dropped Out
+7,15,Cybersecurity,2025-11-10,Completed
+8,18,Mobile App Development,2026-01-24,Completed
+9,19,Data Science,2026-03-02,Completed
+10,21,UI/UX Design,2025-11-21,Completed
+11,23,Mobile App Development,2026-01-21,Completed
+12,24,UI/UX Design,2026-04-07,Completed
+13,29,Web Development,2026-02-05,Dropped Out
+14,34,Web Development,2026-01-09,Completed
+15,37,Web Development,2026-01-15,Completed
+16,41,Data Science,2026-03-05,Completed
+17,42,Data Science,2026-03-25,Completed
+18,44,Mobile App Development,2026-03-19,Completed
+19,49,UI/UX Design,2025-12-07,Dropped Out
+20,51,Web Development,2026-02-28,Completed
+21,52,UI/UX Design,2026-01-18,Dropped Out
+22,53,Cybersecurity,2026-03-17,Completed
+23,54,Cybersecurity,2026-04-26,Dropped Out
+24,58,UI/UX Design,2026-01-31,Completed
+25,62,Cybersecurity,2026-01-30,Completed
+26,63,Mobile App Development,2026-01-16,Completed
+27,66,Cybersecurity,2026-01-02,Completed
+28,73,UI/UX Design,2026-04-04,Completed
+29,75,Mobile App Development,2026-03-22,Completed
+30,82,Mobile App Development,2025-11-01,Completed
+31,84,Data Science,2025-11-23,Completed
+32,85,Web Development,2025-12-04,Dropped Out
+33,87,Mobile App Development,2026-01-09,Dropped Out
+34,91,Data Science,2025-12-11,Completed
+35,98,Cybersecurity,2026-04-26,Dropped Out
+36,100,Data Science,2025-11-13,Completed
+37,101,Cybersecurity,2025-11-29,Completed
+38,103,Cybersecurity,2026-01-26,Dropped Out
+39,104,Mobile App Development,2026-04-12,Completed
+40,111,UI/UX Design,2025-12-28,Completed
+41,115,Mobile App Development,2026-02-13,Completed
+42,116,UI/UX Design,2025-11-30,Completed
+43,118,Data Science,2026-02-09,Dropped Out
+44,120,Data Science,2026-02-22,Dropped Out
+45,121,Mobile App Development,2025-11-03,Completed
+46,126,Web Development,2025-11-06,Completed
+47,127,Data Science,2026-03-05,Completed
+48,131,Web Development,2025-11-23,Completed
+49,135,Web Development,2025-10-24,Completed
+50,136,UI/UX Design,2025-12-24,Completed
+51,138,Cybersecurity,2026-03-05,Dropped Out
+52,140,Mobile App Development,2025-10-23,Dropped Out
+53,142,Data Science,2025-12-05,Completed
+54,143,Data Science,2026-03-13,Dropped Out
+55,144,Mobile App Development,2026-02-11,Dropped Out
+56,149,Cybersecurity,2026-01-04,Completed
+57,152,Data Science,2025-12-21,Completed
+58,153,UI/UX Design,2026-02-05,Completed
+59,155,Cybersecurity,2025-11-15,Completed
+60,159,Mobile App Development,2025-10-29,Completed
+61,160,Data Science,2026-02-02,Completed
